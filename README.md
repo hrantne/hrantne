@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @hrantne
 - 👀 I’m interested in learing to code and music
 - 🌱 I’m currently learning Python, HTML, CSS, Javascript, C#
+- 💻 I'm currently working on a game called Pyrdle
 - 💞️ I’m looking to collaborate on ... idk
 - 📫 How to reach me: hrantnonexistent@gmail.com - (Discord) hrantne#0037 - (Twitter) @hrantne
 
