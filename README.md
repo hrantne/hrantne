@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hrantne
-- 👀 I’m interested in learing to code and music
+- 👀 I’m interested in learning to code and music
 - 🌱 I’m currently learning Python, HTML, CSS, Javascript, C#
 - 💻 I'm currently working on Pygen
 - 💞️ I’m looking to collaborate on ... idk
