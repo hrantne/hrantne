@@ -1,5 +1,5 @@
-- 👋 What's up! I’m @hrantne
-- 👀 I’m interested in learning to code and music
-- 🌱 I’m currently learning Python, HTML, CSS, Javascript, C#
-- 💻 I'm currently working on Pygen
-- 📫 How to reach me: hrantnonexistent@gmail.com - (Discord) hrantne#0037 - (Twitter) @hrantne
+- 👋 sup im @hrantne
+- 👀 code and mosic
+- 🌱 python html js css php sql
+- 💻 asdfasdfasdf
+- 📫 hrantnonexistent@gmail.com hrantmf#0037 @chiptoone
